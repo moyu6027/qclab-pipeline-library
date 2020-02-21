@@ -15,7 +15,7 @@ String getProfileType(String begin="02:00:00",String end="04:00:00"){
 
     println(t.toString());
     println(profile);
-    return profile;
+    return profile
 }
 
 return this;
