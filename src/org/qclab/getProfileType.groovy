@@ -1,5 +1,5 @@
 #!groovy
-
+package org.qclab
 import java.time.*
 
 String getProfileType(String begin="02:00:00",String end="04:00:00"){
@@ -14,7 +14,7 @@ String getProfileType(String begin="02:00:00",String end="04:00:00"){
     }
 
     println(t.toString());
-    println(profile);
+    // println(profile);
     return profile
 }
 
