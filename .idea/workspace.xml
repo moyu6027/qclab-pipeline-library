@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ab66668-65fc-437e-801b-b5c84b867496" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Concept" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y3f9Lz9ywgKOnHlJbbZpYY2NRv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/org/qclab" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\download\qclab-pipeline-library\src\org\qclab" />
+      <recent name="D:\download\pipeline-library-demo-master\src\org\qclab" />
+      <recent name="D:\download\pipeline-library-demo-master\vars" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\download\qclab-pipeline-library\src\org\qclab" />
+      <recent name="D:\download\pipeline-library-demo-master\vars" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Groovy.runE2ETest">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="qclab-pipeline-library" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="qclab-pipeline-library" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="qclab-pipeline-library" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <setting name="alternativeJrePathEnabled" value="true" />
+      <setting name="alternativeJrePath" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="runE2ETest (1)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="qclab-pipeline-library" />
+      <setting name="path" value="file://$PROJECT_DIR$/vars/runE2ETest.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/vars" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="runE2ETest" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="qclab-pipeline-library" />
+      <setting name="path" value="file://$PROJECT_DIR$/vars/runE2ETest.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/vars" />
+      <setting name="debug" value="false" />
+      <setting name="alternativeJrePathEnabled" value="true" />
+      <setting name="alternativeJrePath" value="C:\Program Files\Java\jdk1.8.0_211\jre" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sayHello" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="qclab-pipeline-library" />
+      <setting name="path" value="file://$PROJECT_DIR$/vars/sayHello.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/vars" />
+      <setting name="debug" value="false" />
+      <setting name="alternativeJrePathEnabled" value="true" />
+      <setting name="alternativeJrePath" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Groovy.runE2ETest" />
+      <item itemvalue="Groovy.sayHello" />
+      <item itemvalue="Groovy.runE2ETest (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Groovy.runE2ETest" />
+        <item itemvalue="Groovy.runE2ETest (1)" />
+        <item itemvalue="Groovy.sayHello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ab66668-65fc-437e-801b-b5c84b867496" name="Default Changelist" comment="" />
+      <created>1582176045476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582176045476</updated>
+      <workItem from="1582176047891" duration="3436000" />
+      <workItem from="1582179520938" duration="6669000" />
+      <workItem from="1582192398291" duration="242000" />
+      <workItem from="1582192676435" duration="4675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582192595803">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1582192595803" />
+    <state x="356" y="0" key="#go_build_pipeline-library-demo-master/" timestamp="1582192413544">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="356" y="0" key="#go_build_pipeline-library-demo-master//0.0.1280.680@0.0.1280.680" timestamp="1582192413544" />
+    <state x="375" y="88" key="EnvironmentVariablesDialog" timestamp="1582192229635">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="375" y="88" key="EnvironmentVariablesDialog/0.0.1280.680@0.0.1280.680" timestamp="1582192229635" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1582177253625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582177253625" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1582192639048">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1582192639048" />
+    <state x="91" y="0" key="new project wizard" timestamp="1582179573197">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1582179573197" />
+  </component>
+</project>
